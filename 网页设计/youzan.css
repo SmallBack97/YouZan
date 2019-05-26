@@ -1,0 +1,517 @@
+
+#headertaozi{
+background: #ffffff;
+border-bottom: 1px solid #ededed;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+z-index: 200;
+transition: all 0.5s ease-in;
+box-sizing: border-box;
+width: 100%;
+height:auto;
+padding-bottom: 0.3%;
+}
+
+
+#mz{
+display: inline-block;
+width: 72px;
+height: 25px;
+background-size: 72px 25px;
+
+margin-left:35%;
+margin-right: auto;
+margin-bottom: auto;
+}
+
+
+
+#hk{
+display: inline-block;
+width: 78px;
+color: #999;
+font-size: 10px;
+font-family: 'PingFang SC';
+font-weight: 300;
+line-height: 13px;
+}
+
+
+#daohang{
+display: inline-block;
+width: 70%;
+height: auto;
+position: absolute;
+box-sizing: border-box;
+margin: 0 auto;
+}
+
+
+
+#sy{
+display:inline-block;
+width: auto;
+margin-bottom: auto;
+padding-left:7.5%;
+font: inherit;
+font-size: 90%;
+
+
+}
+.sy{
+color: red;
+text-decoration: none;    /*去除字母下划线*/
+}
+
+
+
+#sjfw{
+display: inline-block;
+width: auto;
+padding-top: 15px;
+padding-left:1.7%;
+font: inherit;
+font-size: 90%;
+
+}
+
+
+#xfz{
+    display: inline-block;
+    color: #2c3a46;
+    width:auto;
+    padding-top: 15px;
+    padding-left:1.5%;
+    font-size: 90%;
+}
+.xfz{
+    text-decoration: none;
+    color: #2c3a46;
+
+}
+.xfz:hover{
+color:red;
+}
+
+
+
+#qdhz{
+    display: inline-block;
+    text-decoration: none;    /*去除字母下划线*/
+    color: #2c3a46;
+    width: auto;
+    
+    padding-top: 15px;
+    padding-left:1%;
+    
+    font: inherit;
+    font-size: 90%;
+}
+
+
+#yzy{
+    display: inline-block;
+    text-decoration: none;    /*去除字母下划线*/
+    color: #2c3a46;
+    width: auto;
+    
+    padding-top: 15px;
+    padding-left:1%;
+    
+    font: inherit;
+    font-size: 90%;
+}
+
+
+#gdfw{
+    display: inline-block;
+    text-decoration: none;    /*去除字母下划线*/
+    color: #2c3a46;
+    width: ;
+    
+    padding-top: 15px;
+    padding-left:1%;
+    padding-right:1.5%;
+    
+    font: inherit;
+    font-size: 90%;
+}
+
+
+
+#btn1{
+
+ 
+    width: 80px;
+    height: 30px;
+    line-height: 28px;
+    display: inline-block;
+    border: 1px solid #2B90ED;
+  
+    text-align: center;
+    border-radius: 2px;
+    box-sizing: border-box;
+    
+    
+    
+}
+
+
+.btn1{
+    cursor: pointer;
+    text-decoration: none;    /*去除字母下划线*/
+    color: #2B90ED;
+
+
+}
+
+#btn2{
+
+    width: 80px;
+    height: 30px;
+    
+    display: inline-block;
+    position: absolute;
+    background-color: #2B90ED;
+    text-align: center;
+   
+    border-radius: 2px;
+
+    margin-left: 10px;
+    margin-top:9px;
+   
+}
+
+
+.btn2{
+
+    text-decoration: none;    /*去除字母下划线*/
+    cursor: pointer;
+    
+    color: #ffffff;
+    line-height: 30px;
+
+
+}
+
+#bdp{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 425px;
+    background-size: cover;
+    background-position-x: 100%;
+    background-position-y: center;
+    margin: auto;
+    background-image: url(bodypic.jpg);
+}
+
+
+.heng1{
+    display: inline-block;
+    position: absolute;
+    left:49%;
+    top:93%;
+
+}
+
+.heng2{
+    display: inline-block;
+    position: absolute;
+    left:51%;
+    top:93%;
+
+}
+
+.heng3{
+    display: inline-block;
+    position: absolute;
+    left:53%;
+    top:93%;
+
+}
+
+
+
+
+
+
+
+.zuo{
+        display:inline-block;
+        position: absolute;
+        margin-left:67%;
+        top:44.5%;
+
+}
+
+.you{
+
+    display:inline-block;
+    position: absolute;
+    margin-left:32.4%;
+    top:44.5%;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+#bdc{
+    position: absolute;
+    display: inline-block;
+    left: 35%;
+    top:20%;
+
+}
+
+.num1{
+font-size:44px;
+line-height: 62px;
+color: #333;
+}
+
+.num2{
+
+display: block;
+margin-top: 10px;
+
+font-size: 20px;
+    color: #777;
+    margin-bottom: 55px;
+}
+
+
+
+.freeuse{
+    display: block;
+
+
+    width: 75px;
+    height: 15px;
+    line-height: 18px;
+    
+    text-align: center;
+    background: #38f;
+    padding: 12px 42px;
+    color: #fff;
+    font-size: 14px;
+
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+
+.tel{
+
+    display: block;
+
+    font-size: 14px;
+    color: #777;
+    margin-top: 15px;
+  
+
+
+}
+
+
+
+
+
+#bdyzj{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 425px;
+    margin-top:2.6%;
+}
+
+#bdyzj1{
+    position: absolute;
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    left:30%;
+    
+}
+
+.yzwsc{
+    display: inline-block;
+    font-family: PingFangSC-Medium;
+    font-size: 28px;
+    color: #333;
+    position: absolute;
+    left:24%;
+}
+#bdyzj2{
+    position: absolute;
+    display: inline-block;
+    width: 40%;
+    height: 100%;
+  
+    top: 35px;
+}
+
+.m3{
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+
+    position: absolute;
+    top:17%;
+    left: 17%;
+}
+.hytd{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:24%;
+    left: 17%;
+
+}
+.bz{
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+
+    position: absolute;
+    top:35.5%;
+    left: 17%;
+}
+
+.sq{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:42.5%;
+    left: 17%;
+
+}
+
+.xt{
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+
+    position: absolute;
+    top:54%;
+    left: 17%;
+}
+
+.kh{
+
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:61%;
+    left: 17%;
+}
+
+.fx{
+
+    display: inline-block;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: PingFangSC-Medium;
+
+    position: absolute;
+    top:72%;
+    left: 17%;
+
+}
+
+
+.bnm{
+
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #999;
+    line-height: 24px;
+    display: inline-block;
+    position: absolute;
+    top:79%;
+    left: 17%;
+
+}
+
+.use{
+
+    display: inline-block;
+
+
+    width: 56px;
+    height: 15px;
+    line-height: 18px;
+    text-align: center;
+    background: #38f;
+    padding: 12px 42px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 2px;
+
+    position: absolute;
+    top:90%;
+    left: 17%;
+    margin-right: 4%;
+  
+
+}
+
+
+.gnjs{
+    border: 1px solid #38f;
+    color: #38f;
+    padding: 9px 42px;
+    font-size: 14px;
+    border-radius: 2px;
+    display: inline-block;
+    text-decoration: none; 
+    margin-left: 10%;
+display:inline-block;
+position: absolute;
+top:90%;
+left: 43%;
+
+}
+
+
+#last{
+    display:inline-block;
+    background-image:url(last.jpg);
+    position: absolute;
+
+    top:18%;
+    left: 40%;
+
+    width: 570px;
+    height: 100%;
+
+
+
+}
+
+
