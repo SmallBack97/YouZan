@@ -9,6 +9,7 @@ box-sizing: border-box;
 width: 100%;
 height:auto;
 padding-bottom: 0.3%;
+
 }
 
 
@@ -68,7 +69,7 @@ text-decoration: none;    /*去除字母下划线*/
 display: inline-block;
 width: auto;
 padding-top: 15px;
-padding-left:1.7%;
+padding-left:1.5%;
 font: inherit;
 font-size: 90%;
 
@@ -87,10 +88,39 @@ font-size: 90%;
     text-decoration: none;
     color: #2c3a46;
 
+
+
 }
 .xfz:hover{
 color:red;
+
 }
+
+
+.img{
+    position: relative;
+    left:-5px;
+    top:5px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    background-image: url(jt.png);
+    overflow: hidden;
+    
+
+}
+
+
+.img:hover{
+    transform: translateY(-50px);
+    filter: drop-shadow(red 0 50px);
+  
+   
+
+}
+
+
 
 
 
@@ -101,7 +131,7 @@ color:red;
     width: auto;
     
     padding-top: 15px;
-    padding-left:1%;
+    padding-left:1.5%;
     
     font: inherit;
     font-size: 90%;
@@ -115,7 +145,7 @@ color:red;
     width: auto;
     
     padding-top: 15px;
-    padding-left:1%;
+    padding-left:1.5%;
     
     font: inherit;
     font-size: 90%;
@@ -129,7 +159,7 @@ color:red;
     width: ;
     
     padding-top: 15px;
-    padding-left:1%;
+    padding-left:1.5%;
     padding-right:1.5%;
     
     font: inherit;
@@ -177,7 +207,7 @@ color:red;
     border-radius: 2px;
 
     margin-left: 10px;
-    margin-top:9px;
+    margin-top:14px;
    
 }
 
@@ -476,7 +506,7 @@ font-size: 20px;
     position: absolute;
     top:90%;
     left: 17%;
-    margin-right: 4%;
+ margin-left:0.5%;
   
 
 }
@@ -490,7 +520,7 @@ font-size: 20px;
     border-radius: 2px;
     display: inline-block;
     text-decoration: none; 
-    margin-left: 10%;
+    margin-left:0.5%;
 display:inline-block;
 position: absolute;
 top:90%;
