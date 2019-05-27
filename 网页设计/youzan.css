@@ -209,7 +209,7 @@ color:red;
 .heng1{
     display: inline-block;
     position: absolute;
-    left:49%;
+    left:46%;
     top:93%;
 
 }
@@ -217,7 +217,7 @@ color:red;
 .heng2{
     display: inline-block;
     position: absolute;
-    left:51%;
+    left:50%;
     top:93%;
 
 }
@@ -225,7 +225,7 @@ color:red;
 .heng3{
     display: inline-block;
     position: absolute;
-    left:53%;
+    left:54%;
     top:93%;
 
 }
@@ -239,8 +239,8 @@ color:red;
 .zuo{
         display:inline-block;
         position: absolute;
-        margin-left:67%;
-        top:44.5%;
+        margin-left:75%;
+        top:45%;
 
 }
 
@@ -248,8 +248,8 @@ color:red;
 
     display:inline-block;
     position: absolute;
-    margin-left:32.4%;
-    top:44.5%;
+    margin-left:25%;
+    top:45%;
 
 
 
@@ -494,7 +494,8 @@ font-size: 20px;
 display:inline-block;
 position: absolute;
 top:90%;
-left: 43%;
+left: 57%;
+width: 56px;
 
 }
 
@@ -505,7 +506,7 @@ left: 43%;
     position: absolute;
 
     top:18%;
-    left: 40%;
+    left: 48%;
 
     width: 570px;
     height: 100%;
